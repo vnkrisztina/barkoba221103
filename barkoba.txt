@@ -5,3 +5,4 @@ Tárgy? -> nem
 Háziállat? nem
 Vadon élő állat? is-is
 Afrikában él? igen, eredeti élőhelye a vadonban
+Emlős?
