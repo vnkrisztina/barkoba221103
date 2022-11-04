@@ -3,3 +3,4 @@ Tárgy? -> nem
 Élőlény? -> igen
 Állat?  igen
 Háziállat? nem
+Vadon élő állat?
