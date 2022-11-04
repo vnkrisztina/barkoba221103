@@ -2,3 +2,4 @@ Marci kérdez:
 Tárgy? -> nem
 Élőlény? -> igen
 Állat?  igen
+Háziállat? 
