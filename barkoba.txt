@@ -1,4 +1,4 @@
 Marci kérdez:
 Tárgy? -> nem
 Élőlény? -> igen
-Állat?
+Állat?  igen
