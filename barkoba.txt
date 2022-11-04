@@ -4,4 +4,4 @@ Tárgy? -> nem
 Állat?  igen
 Háziállat? nem
 Vadon élő állat? is-is
-Afrikában él?
+Afrikában él? igen, eredeti élőhelye a vadonban
